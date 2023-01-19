@@ -1,0 +1,50 @@
+@media screen and (max-width: 1367px) {
+    #contact > section > form {
+        > input,
+        > button {
+          font: 400 0.8rem $text1;
+          width: 50%;
+        }
+      }
+    
+      footer {
+        padding-left: $p_md;
+      }
+    }
+    @media screen and (max-width: 900px) {
+        #contact > section > form {
+            > h2 {
+              font: 100 2.3rem $text2;
+            }
+            > input,
+            > button {
+              width: 65%;
+            }
+          }
+        
+          footer {
+            padding-left: $p_zero;
+            grid-template-columns: 1fr;
+            > div {
+              width: 100%;
+              border: none;
+              p {
+                width: 50%;
+                margin: 2rem auto;
+              }
+            }
+            > a {
+              margin: 1rem;
+            }
+          }
+        }
+        @media screen and (max-width: 786px) {
+
+            #contact {
+                grid-template-columns: 1fr;
+                > aside {
+                  display: none;
+                }
+              }
+            }
+        
