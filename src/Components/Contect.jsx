@@ -62,7 +62,7 @@ const Contact = () => {
     <div id="contact">
       <section>
         <motion.form onSubmit={submitHandler} {...animations.form}>
-          <h2>Contact Me</h2>
+          <h2 color={"white"}>Contact Me</h2>
           <input
             type="text"
             value={name}

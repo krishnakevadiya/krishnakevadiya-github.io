@@ -36,13 +36,13 @@ const Projects = () => {
           </Box>
 
           <Box border="0px solid" width="auto" p="2%">
-            <Text fontSize="3xl">Netmeds</Text>
+            <Text fontSize="3xl" color={"white"}>Netmeds </Text>
             <Text fontSize="2xl" color="green">
               (online pharmacy)
             </Text>
 
-            <UnorderedList>
-              <ListItem>
+            <UnorderedList color={"white"}>
+              <ListItem >
                 At netmeds.com provide a wide range of medicines listed under
                 various categories
               </ListItem>
@@ -57,7 +57,7 @@ const Projects = () => {
               <Text fontSize="2xl" color="green">
                 Tech-Stack
               </Text>
-              <Text> HTML | CSS | JavaScript </Text>
+              <Text color={"white"}> HTML | CSS | JavaScript </Text>
             </Box>
             <Box border="0px solid " p="20px">
               <Flex
@@ -116,12 +116,12 @@ const Projects = () => {
           </Box>
 
           <Box border="0px solid" width="auto" p="2%">
-            <Text fontSize="3xl">BlueFly</Text>
+            <Text fontSize="3xl" color={"white"} >BlueFly</Text>
             <Text fontSize="2xl" color="green">
               (online shopping)
             </Text>
 
-            <UnorderedList>
+            <UnorderedList color={"white"}>
               <ListItem>
                 Bluefly offers an e-commerce platform that sells designer
                 apparel and accessories, household products and accessories at
@@ -138,7 +138,7 @@ const Projects = () => {
               <Text fontSize="2xl" color="green">
                 Tech-Stack
               </Text>
-              <Text> HTML | CSS | JavaScript </Text>
+              <Text color={"white"}> HTML | CSS | JavaScript </Text>
             </Box>
             <Box border="0px solid " p="20px">
               <Flex
@@ -198,7 +198,7 @@ const Projects = () => {
           <Box border="0px solid" width="auto" p="2%">
             <Text fontSize="3xl">MI</Text>
 
-            <UnorderedList>
+            <UnorderedList color={"white"}>
               <ListItem>
                 Buy Xiaomi mobiles, accessories with Mi Protect, COD & EMI
                 Options at Mi.com. EMI option, COD, Mi Protect available. Mi
@@ -212,7 +212,7 @@ const Projects = () => {
               <Text fontSize="2xl" color="green">
                 Tech-Stack
               </Text>
-              <Text>HTML | CSS | JavaScript | React | Material-UI </Text>
+              <Text color={"white"}>HTML | CSS | JavaScript | React | Material-UI </Text>
             </Box>
             <Box border="0px solid " p="20px">
               <Flex
