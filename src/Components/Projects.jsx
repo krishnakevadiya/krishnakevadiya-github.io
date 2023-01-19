@@ -196,7 +196,7 @@ const Projects = () => {
           </Box>
 
           <Box border="0px solid" width="auto" p="2%">
-            <Text fontSize="3xl">MI</Text>
+            <Text fontSize="3xl" color={"white"}>MI</Text>
 
             <UnorderedList color={"white"}>
               <ListItem>
