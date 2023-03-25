@@ -6,7 +6,7 @@ const firebaseConfig = {
   authDomain: "react-portfolio.firebaseapp.com",
   projectId: "react-portfolio-krishna",
   storageBucket: "react-portfolio-krishna.appspot.com",
-  messagingSenderId: "278164302078",
+  messagingSenderId: "706228920881",
   appId: "1:278164302078:web:797fe5960bb12b5fca1daf",
 };
 

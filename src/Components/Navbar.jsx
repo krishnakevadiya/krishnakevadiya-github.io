@@ -20,7 +20,7 @@ const Navbar = () => {
     const [navMid] = useMediaQuery('(min-width: 800px)')
    
     const toggleClick2 = () => {
-      window.open('https://drive.google.com/file/d/1Q03Rf1oWA6AWhAKyWgo4DjJrmWwOvZVj/view?usp=share_link')
+      window.open('https://drive.google.com/file/d/1m06OeHFDxDaQUNG_zK5muGqgGkERYctZ/view?usp=share_link')
     }
 
     return (
