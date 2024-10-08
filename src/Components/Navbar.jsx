@@ -11,7 +11,7 @@ import {
   import {  HamburgerIcon } from '@chakra-ui/icons'
 
 
-import resume from "../pdf/Krishna_Kevadiya_Resume.pdf"
+import resume from "../pdf/krishna_kevadiya_Resume.pdf"
 
 
 
